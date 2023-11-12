@@ -1,0 +1,43 @@
+table, td, th{
+    border-bottom: 2px solid black; 
+    border-collapse:collapse;
+    
+    
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+}
+
+.name{
+    width: 20%;
+}
+
+
+
+td, th {
+    padding: 10px;
+    border-color: #96d4d9;
+
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+tr:nth-child(odd){
+    background-color: darkgray;
+}
+
+caption{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Cohorts{
+    padding-left: 25px;
+    
+}
