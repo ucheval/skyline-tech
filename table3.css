@@ -1,0 +1,43 @@
+table, td, th{
+    border-top: 1px solid;
+    border-collapse: collapse;
+    border-color: #ddd;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+td{
+    font-size: 20px;
+}
+
+table{
+    width: 100%;
+    margin: auto;
+}
+
+th{
+    background-color: dodgerblue;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.container{
+    width: 90%;
+    margin: auto  ;
+}
+
+td,th{
+    padding: 3%;
+}
+
+caption{
+    background-color: rgb(244, 208, 6);
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+    margin-bottom:10px ;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
