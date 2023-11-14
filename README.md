@@ -1,12 +1,12 @@
 # skyline-tech
 
-Assignment on table design.
+# Assignment on table design.
 
-#functionality.
+# functionality.
 
 this table has the folowing datas of students in cohort 14,
 a.student id, b.student name, c.courses, d.passcode, e.cohort, f.aproved.
 
-#files contained.
+# files contained.
 
 table2.html, table2.css files. 
