@@ -1,7 +1,10 @@
-table assignment.
+table assignment
 
 # skyline-tech.
 
-#funtionality.
+# Functionality
+ 
+This table records the following a.id of students in cohort 14,b.user names,c.courses,d.pascode, e, score, f.grade. of students in cohort 14.
 
-this table records the following a.id of students in cohort 14, b.user names, c.courses, d. pascode, e, score, f.grade. of students in cohort 14.
+# files contained.
+ README.md, table1.css and table.html files
