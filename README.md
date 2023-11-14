@@ -1,2 +1,12 @@
 # skyline-tech
-#this is my table2, this table has the informations of cohort 14 students , like names, passcodes , cohorts and cohorts numbers respectively.
+
+Assignment on table design.
+
+#functionality.
+
+this table has the folowing datas of students in cohort 14,
+a.student id, b.student name, c.courses, d.passcode, e.cohort, f.aproved.
+
+#files contained.
+
+table2.html, table2.css files. 
